@@ -1,6 +1,14 @@
 # Setup Qt for Python development
 
-## Python 3.10 installation on Ubuntu 20.04
+# Python 3.10 installation
+
+## Windows 10
+
+```
+winget install python3 -l C:\Python\Python3.10
+```
+
+## Ubuntu 20.04
 
 Ensure you have python 3.10
 
@@ -17,6 +25,7 @@ sudo apt-get install build-essential x11-apps x11-common libxkbcommon-x11-0 \
                      libgl1-mesa-dev libxcb1-dev -y
 
 ```
+
 
 ## Example Dev Setup
 
